@@ -108,7 +108,7 @@ router.post('/update/:id', (req, res) => {
 
 
 router.get('/api-key', (req, res) => {
-    const apiKey = '3788a8440f77fa6322c25c894dadfc09'; // Tu API key
+    const apiKey = '3788a8440f77fa6322c25c894dadfc09'; +
     res.json({ apiKey }); // Enviar la clave como JSON
 });
 
