@@ -1,0 +1,60 @@
+
+.body-background{
+    background-color: aliceblue;
+}
+
+.text-color-n{
+    color: #F4F4F8;
+}
+
+.nav-back-color{
+    background-color: #216869;
+    /*background-color: #49A078; */
+}
+
+/* Barra nav */
+.a-nav{
+    text-decoration: none;
+    font-size:100%;
+    color: aliceblue;
+    padding: 2%;
+    transition: transform .3s ease-out 0s;
+    transition:0.5s;
+}
+
+
+.a-nav:hover{
+    color:rgb(182, 182, 182);
+    transform: scale(1.1);
+    display: inline-block;
+}
+
+#a-nav-main{
+    margin-right: 10%;
+    transition: transform .3s ease-out 0s;
+    transition:0.5s;
+}
+
+#a-nav-main:hover{
+    color:rgb(182, 182, 182);
+    transform: scale(1.1);
+    display: inline-block;
+}
+
+.a-nav-text{
+    text-decoration: none;
+    color: aliceblue;
+    font-size:130%;
+}
+
+.img-logo{
+    width: 8%;
+    height: auto;
+}
+
+#setClima{
+    text-decoration: none;
+    font-size:100%;
+    color: aliceblue;
+    padding: 2%;
+}
