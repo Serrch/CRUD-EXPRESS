@@ -24,11 +24,11 @@ Se trata de un pequeño CRUD de usuarios hecho con el framework de Express que m
 
 1.Vista de usuarios
 
-<a href="https://postimg.cc/vDqGVJTw" target="_blank"><img width="500" src="https://i.postimg.cc/fTZy6Zhy/Captura-de-pantalla-2024-11-20-233604.png"</a></a>
+<a href="https://postimg.cc/vDqGVJTw" target="_blank"><img src="https://i.postimg.cc/fTZy6Zhy/Captura-de-pantalla-2024-11-20-233604.png" alt="Captura-de-pantalla-2024-11-20-233604"/></a>
 
 2.Vista para agregar a un nuevo usuario
 
-<a href="https://postimg.cc/xNCYZRsZ" target="_blank"><img width="500" src="https://i.postimg.cc/6qV3ybCB/Captura-de-pantalla-2024-11-20-233614.png" </a>
+<a href="https://postimg.cc/xNCYZRsZ" target="_blank"><img src="https://i.postimg.cc/6qV3ybCB/Captura-de-pantalla-2024-11-20-233614.png" alt="Captura-de-pantalla-2024-11-20-233614"/></a>
 
 
 
