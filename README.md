@@ -16,9 +16,9 @@ Se trata de un pequeño CRUD de usuarios hecho con el framework de Express que m
 
 5. Corre el servidor utilizando `npm run dev nodemon` el servidor debe abrir en el puerto 5000.
 `<link>` : <http://localhost:5000>
-6. Si tienes ese puerto ocupado o prefieres otro puedes ir al archivo app.js y cambiarlo 
-```javascript 
-app.set('port', 5000);````
+6. Si tienes ese puerto ocupado o prefieres otro puedes ir al archivo app.js y cambiarlo
+
+```javascript  app.set('port', 5000); ```
 
 ### Imagenes del proyecto
 
