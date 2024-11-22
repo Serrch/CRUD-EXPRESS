@@ -35,5 +35,6 @@ Se trata de un pequeño CRUD de usuarios hecho con el framework de Express que m
 ## Tecnologías Utilizadas
 - HTML5, CSS3
 - JavaScript (ES6+)
+- Bootstrap 5
 - Fetch API / Async-Await
 - Express
