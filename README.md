@@ -36,4 +36,3 @@ Se trata de un pequeño CRUD de usuarios hecho con el framework de Express que m
 - HTML5, CSS3
 - JavaScript (ES6+)
 - Fetch API / Async-Await
-- Marvel API
